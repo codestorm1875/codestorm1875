@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=codestorm1875&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-> _"Knowledge is the beginning of wisdom, and through code, I seek to understand the digital universe."_ 
+> _"Knowledge is the beginning of wisdom, and through code, I seek to understand the digital universe."_
 
 ---
 
@@ -42,6 +42,8 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 
