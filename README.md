@@ -1,11 +1,12 @@
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=codestorm1875&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20Codestorm1875%20-%20Full%20Stack%20Developer&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b&bg_color=0d1117" alt="Profile Header" />
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codestorm1875&theme=radical&hide_border=true&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=ff6b6b&sideNums=ff6b6b&currStreakLabel=ff6b6b&sideLabels=ff6b6b&dates=ffffff" alt="GitHub Streak" />
-  
+
+# Hello, I'm Codestorm1875 👋
+
+## Full-Stack Developer & Digital Craftsman
+
+> _"The only true wisdom is in knowing you know nothing."_  
+> — **Socrates**
+
 </div>
 
 ---
