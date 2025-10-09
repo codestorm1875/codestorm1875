@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=codestorm1875&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-> _"I turn coffee into code and ideas into reality! Building the future, one commit at a time."_ ☕ → 💻
+> _"Knowledge is the beginning of wisdom, and through code, I seek to understand the digital universe."_ 
 
 ---
 
@@ -89,7 +89,7 @@
 
 ---
 
-## 🌟 **Exploring** 🔍
+## 🌟 **Currently Exploring** 🔍
 
 <div align="center">
 
