@@ -43,23 +43,20 @@
   <h3>Projects</h3>
   <ul>
     <li>
-      <b><a href="https://github.com/codestorm1875/online-voting">Online Voting System</a>:</b> Full-stack voting platform with real-time results
+      <b><a href="https://github.com/codestorm1875/online-voting-system">Online Voting System</a>:</b> Full-stack voting platform with real-time results
     </li>
     <li>
       <b><a href="https://github.com/codestorm1875/portfolio">Personal Portfolio</a>:</b> Modern, responsive portfolio website
     </li>
     <li>
-      <b><a href="https://github.com/codestorm1875/online-banking">Online Banking System</a>:</b> Secure banking application with PHP and MySQL
-    </li>
-    <li>
-      <b><a href="https://github.com/codestorm1875/onboarder">Onboarder CLI Tool</a>:</b> Developer productivity tool for project setup automation
+      <b><a href="https://github.com/codestorm1875/csc-techies-frontend">CSC Techies</a>:</b> My school department website for managing timetables and course materials
     </li>
   </ul>
 </section>
 
 <br/>
 <p>
-  <b>Contact:</b> [sanyaoluabideen@gmail.com](mailto:sanyaoluabideen@gmail.com)
+  <b>Contact:</b> @codestorm1875 on Discord
 </p>
 
 <a style="text-decoration: none;" href="https://github.com/codestorm1875">
