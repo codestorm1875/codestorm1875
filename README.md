@@ -59,45 +59,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codestorm1875&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### 🏆 **Achievements**
-
-- 💻 **Full-Stack** Development Expertise
-- 🎨 **Modern UI/UX** Design Skills
-- 🔒 **Security-First** Development Approach
-- 📱 **Responsive** Web Applications
-
----
-
 ## 📈 **GitHub Activity**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codestorm1875&theme=dark&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
-</div>
-
----
-
-## 🎨 **Design Philosophy**
-
-> _"Clean code, beautiful interfaces, and user-centered design are the pillars of exceptional digital experiences."_
-
-### **Core Principles**
-
-- 🎯 **User-First Design** - Every decision starts with the user
-- 🔒 **Security by Design** - Security is not an afterthought
-- 📱 **Mobile-First** - Responsive design for all devices
-- ⚡ **Performance Matters** - Fast, efficient, and scalable solutions
-- 🧪 **Test-Driven** - Quality through comprehensive testing
-
----
-
-## 🌟 **Currently Exploring** 🔍
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Web3-9945FF?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
-<img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
-<img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
-
 </div>
 
 ---
