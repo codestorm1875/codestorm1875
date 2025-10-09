@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Codestorm1875;Full-Stack+Developer;Building+Amazing+Digital+Experiences;Let's+Create+Something+Incredible!" alt="Typing SVG" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=60&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descAlign=center" alt="Header" />
+  
+  <br>
+  
+  <img src="https://github.com/codestorm1875/codestorm1875/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
 </div>
 
 ---
@@ -20,6 +26,7 @@
 > _"Knowledge is the beginning of wisdom, and through code, I seek to understand the digital universe."_
 
 ---
+
 ## 🛠️ **Tech Stack**
 
 <div align="center">
@@ -67,8 +74,6 @@
 
 ---
 
-## 📫 **Let's Connect!**
-
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://abideen.is-a.dev)
@@ -76,8 +81,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyaoluabideen@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbideenDev)
 
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Thank You" />
 </div>
