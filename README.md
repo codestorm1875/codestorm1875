@@ -1,51 +1,23 @@
 <div align="center">
-
-```
-██╗  ██╗██╗    ██╗ ██████╗ ██╗     ██╗   ██╗███████╗
-██║  ██║██║    ██║██╔═══██╗██║     ██║   ██║██╔════╝
-███████║██║    ██║██║   ██║██║     ██║   ██║███████╗
-██╔══██║██║    ██║██║   ██║██║     ██║   ██║╚════██║
-██║  ██║██║    ██║╚██████╔╝███████╗╚██████╔╝███████║
-╚═╝  ╚═╝╚═╝    ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Codestorm1875;Full-Stack+Developer;Building+Amazing+Digital+Experiences;Let's+Create+Something+Incredible!" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Codestorm1875;Full-Stack+Developer;Building+Amazing+Digital+Experiences;Let's+Create+Something+Incredible!" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codestorm1875&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=00ffff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestorm1875&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00ffff&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codestorm1875&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestorm1875&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🚀 **About Me**
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  ██████╗ ██████╗ ██████╗ ███████╗███████╗████████╗ ██████╗   ║
-║ ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝╚══██╔══╝██╔═══██╗  ║
-║ ██║   ██║██║  ██║██║  ██║█████╗  ███████╗   ██║   ██║   ██║  ║
-║ ██║   ██║██║  ██║██║  ██║██╔══╝  ╚════██║   ██║   ██║   ██║  ║
-║ ╚██████╔╝██████╔╝██████╔╝███████╗███████║   ██║   ╚██████╔╝  ║
-║  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝   ╚═╝    ╚═════╝   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" alt="About Me" />
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=codestorm1875&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 > _"I turn coffee into code and ideas into reality! Building the future, one commit at a time."_ ☕ → 💻
-
-<img src="https://komarev.com/ghpvc/?username=codestorm1875&label=Profile%20views&color=00ffff&style=for-the-badge" alt="Profile Views" />
-
-</div>
 
 ---
 
