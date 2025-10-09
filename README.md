@@ -1,52 +1,67 @@
-<div align="left">
+<section>
+  <h3><b>Hey, I'm Codestorm1875</b></h3>
+  <p>
+    I'm a full-stack developer passionate about building meaningful digital experiences. I enjoy solving complex problems through code and learning new technologies. I also enjoy exploring different facets of programming whenever I have the time to, some stuff I've done in the past include: Blockchain development, Web3 applications, and general recreational programming (think tooling / automation). You can find me on most places online as Codestorm1875. Nice to meet you :)
+  </p>
+</section>
 
-# Hey, I'm Codestorm1875
+<section>
+  <h3>Skills</h3>
+  <p>Backend Engineering</p>
+  <a href="#gh-dark-mode-only">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=codestorm1875&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
+  </a>
+  <a href="#gh-light-mode-only">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=codestorm1875&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
+  </a>
+  <ul>
+    <li>Node.js, TypeScript, Python, Go, Rust</li>
+    <li>NestJS, Express.js</li>
+    <li>PostgreSQL, MySQL, MongoDB, Redis</li>
+    <li>AWS and Docker</li>
+  </ul>
+  <p>Frontend Engineering</p>
+  <ul>
+    <li>HTML, CSS, JavaScript</li>
+    <li>React, Angular, Next.js, Tailwind CSS</li>
+  </ul>
+  <p>Blockchain & Web3</p>
+  <ul>
+    <li>Solidity, Anchor</li>
+    <li>Solana, Web3</li>
+    <li>Smart Contract Development</li>
+  </ul>
+  <a href="#gh-dark-mode-only">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestorm1875&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
+  </a>
+  <a href="#gh-light-mode-only">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestorm1875&langs_count=10&v=174&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="Most used languages">
+  </a>
+</section>
 
-I'm a full-stack developer passionate about building meaningful digital experiences. I enjoy solving complex problems through code and learning new technologies. Nice to meet you :)
+<section>
+  <h3>Projects</h3>
+  <ul>
+    <li>
+      <b><a href="https://github.com/codestorm1875/online-voting">Online Voting System</a>:</b> Full-stack voting platform with real-time results
+    </li>
+    <li>
+      <b><a href="https://github.com/codestorm1875/portfolio">Personal Portfolio</a>:</b> Modern, responsive portfolio website
+    </li>
+    <li>
+      <b><a href="https://github.com/codestorm1875/online-banking">Online Banking System</a>:</b> Secure banking application with PHP and MySQL
+    </li>
+    <li>
+      <b><a href="https://github.com/codestorm1875/onboarder">Onboarder CLI Tool</a>:</b> Developer productivity tool for project setup automation
+    </li>
+  </ul>
+</section>
 
-## Skills
+<br/>
+<p>
+  <b>Contact:</b> [sanyaoluabideen@gmail.com](mailto:sanyaoluabideen@gmail.com)
+</p>
 
-**Backend Engineering:**
-
-- JavaScript, TypeScript, Python, Go, Rust
-- Node.js, NestJS, Express.js
-- PostgreSQL, MySQL, MongoDB
-- AWS, Docker
-
-**Frontend Engineering:**
-
-- HTML, CSS, JavaScript
-- React, Angular, Next.js
-- Tailwind CSS
-
-**Blockchain & Web3:**
-
-- Solidity, Anchor
-- Solana, Web3
-- Smart Contract Development
-
-**Other/Hobbies:**
-
-- Reading philosophy books
-- Contributing to open source projects
-- Learning about blockchain technology
-- Building side projects
-
-## Projects
-
-- **Online Voting System:** Full-stack voting platform with real-time results
-- **Personal Portfolio:** Modern, responsive portfolio website
-- **Online Banking System:** Secure banking application with PHP and MySQL
-- **Onboarder CLI Tool:** Developer productivity tool for project setup automation
-
-**Contact:** [sanyaoluabideen@gmail.com](mailto:sanyaoluabideen@gmail.com)
-
-</div>
-
-<div align="right">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codestorm1875&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestorm1875&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
+<a style="text-decoration: none;" href="https://github.com/codestorm1875">
+  <img style="border-radius:10px" src="https://hits.sh/github.com/codestorm1875/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz&label=this%20many%20people%20viewed%20this%20page"/>
+</a>
