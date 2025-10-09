@@ -13,8 +13,8 @@
 
 ## 🚀 **About Me**
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" alt="About Me" />
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=codestorm1875&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 > _"I turn coffee into code and ideas into reality! Building the future, one commit at a time."_ ☕ → 💻
@@ -110,12 +110,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyaoluabideen@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbideenDev)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codestorm1875&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
