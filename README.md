@@ -75,5 +75,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyaoluabideen@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbideenDev)
 
-<p>Contact Me</p>
+<p><b>Contact Me</b></p>
 </div>
