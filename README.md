@@ -1,13 +1,9 @@
-<div align="center">
-
-# Hello, I'm Codestorm1875 👋
-
-## Full-Stack Developer & Digital Craftsman
-
+<p>Hello, I'm Codestorm1875 👋, a full-stack developer and Digital craftsman.
+--
 > _"The only true wisdom is in knowing you know nothing."_  
 > — **Socrates**
 
-</div>
+</p>
 
 ---
 
