@@ -13,21 +13,11 @@
 
 ## 🚀 **About Me**
 
-```typescript
-const codestorm1875 = {
-	pronouns: "he/him",
-	code: ["TypeScript", "JavaScript", "Python", "PHP"],
-	askMeAbout: ["Web Development", "Full-Stack Solutions", "Digital Innovation"],
-	technologies: {
-		frontend: ["React", "Next.js", "Tailwind CSS", "Vite", "HTML5", "CSS3"],
-		backend: ["Node.js", "Express", "TypeScript", "PHP"],
-		database: ["MongoDB", "MySQL", "PostgreSQL"],
-		tools: ["Git", "VS Code", "Figma", "Docker"],
-		cloud: ["Vercel", "Netlify", "AWS"],
-	},
-	funFact: "I turn coffee into code and ideas into reality! ☕ → 💻",
-};
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" alt="About Me" />
+</div>
+
+> _"I turn coffee into code and ideas into reality! Building the future, one commit at a time."_ ☕ → 💻
 
 ---
 
@@ -125,29 +115,48 @@ const onboarder = {
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
-### **Frontend Development**
+### **Programming Languages**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 
-### **Backend Development**
+### **Frontend Technologies**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
-### **Tools & Technologies**
+### **Backend Technologies**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+
+### **Blockchain & Web3**
+
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
+<img src="https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=anchor&logoColor=white" alt="Anchor" />
+<img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
+
+### **DevOps & Cloud**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+### **Development Tools**
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
 </div>
 
@@ -177,21 +186,24 @@ const onboarder = {
 
 ## 🌟 **What I'm Working On**
 
-```typescript
-const currentFocus = {
-	learning: [
-		"Advanced React Patterns",
-		"Microservices Architecture",
-		"Cloud Computing",
-	],
-	building: [
-		"E-commerce Platform",
-		"Real-time Chat Application",
-		"AI-Powered Tools",
-	],
-	exploring: ["Web3 Technologies", "Machine Learning", "DevOps Practices"],
-};
-```
+<div align="center">
+
+### **Currently Learning** 🎓
+<img src="https://img.shields.io/badge/Advanced_React_Patterns-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Advanced React" />
+<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
+<img src="https://img.shields.io/badge/Cloud_Computing-FF9500?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Computing" />
+
+### **Building** 🚀
+<img src="https://img.shields.io/badge/E--commerce_Platform-00C851?style=for-the-badge&logo=shopify&logoColor=white" alt="E-commerce" />
+<img src="https://img.shields.io/badge/Real--time_Chat-00D4FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Chat App" />
+<img src="https://img.shields.io/badge/AI_Powered_Tools-FF6B9D?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
+
+### **Exploring** 🔍
+<img src="https://img.shields.io/badge/Web3-9945FF?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
+<img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
+
+</div>
 
 ---
 
