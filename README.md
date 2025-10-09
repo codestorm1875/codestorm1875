@@ -20,22 +20,6 @@
 > _"Knowledge is the beginning of wisdom, and through code, I seek to understand the digital universe."_
 
 ---
-
-## 📊 **Statistics**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codestorm1875&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-### 🏆 **Achievements**
-
-- 💻 **Full-Stack** Development Expertise
-- 🎨 **Modern UI/UX** Design Skills
-- 🔒 **Security-First** Development Approach
-- 📱 **Responsive** Web Applications
-
----
-
 ## 🛠️ **Tech Stack**
 
 <div align="center">
@@ -66,6 +50,21 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
 </div>
+
+---
+
+## 📊 **Statistics**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codestorm1875&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+### 🏆 **Achievements**
+
+- 💻 **Full-Stack** Development Expertise
+- 🎨 **Modern UI/UX** Design Skills
+- 🔒 **Security-First** Development Approach
+- 📱 **Responsive** Web Applications
 
 ---
 
