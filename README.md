@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Codestorm1875;Full-Stack+Developer;Building+Amazing+Digital+Experiences;Let's+Create+Something+Incredible!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Codestorm1875;Full-Stack+Developer;Building+Amazing+Digital+Experiences;Let's+Create+Something+Incredible!" alt="Typing SVG" />
 </div>
 
 ---
@@ -21,85 +21,7 @@
 
 ---
 
-## 🎯 **Featured Projects**
-
-### 🗳️ **Online Voting System**
-
-_Full-Stack Voting Platform with Real-time Results_
-
-```typescript
-// Tech Stack
-const votingSystem = {
-	frontend: "React + TypeScript + Vite + Tailwind CSS",
-	backend: "Node.js + Express + TypeScript",
-	features: [
-		"Secure Authentication",
-		"Real-time Voting",
-		"Admin Dashboard",
-		"Results Analytics",
-	],
-	status: "Production Ready",
-};
-```
-
-### 💼 **Personal Portfolio**
-
-_Modern, Responsive Portfolio Website_
-
-```typescript
-// Tech Stack
-const portfolio = {
-	framework: "Next.js 14",
-	styling: "Tailwind CSS + Custom CSS",
-	features: [
-		"Dark/Light Mode",
-		"Responsive Design",
-		"Smooth Animations",
-		"Contact Form",
-	],
-	deployment: "Vercel",
-};
-```
-
-### 🏦 **Online Banking System**
-
-_Secure Banking Application_
-
-```typescript
-// Tech Stack
-const bankingSystem = {
-	backend: "PHP + MySQL",
-	features: [
-		"User Authentication",
-		"Transaction Management",
-		"Account Security",
-		"Financial Reports",
-	],
-	security: "Encrypted Data + Secure Sessions",
-};
-```
-
-### 🛠️ **Onboarder CLI Tool**
-
-_Developer Productivity Tool_
-
-```typescript
-// Tech Stack
-const onboarder = {
-	language: "TypeScript",
-	type: "CLI Tool",
-	features: [
-		"Project Setup Automation",
-		"Configuration Management",
-		"Developer Onboarding",
-	],
-	distribution: "npm",
-};
-```
-
----
-
-## 📊 **Development Statistics**
+## 📊 **Statistics**
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codestorm1875&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
