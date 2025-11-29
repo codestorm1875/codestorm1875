@@ -1,5 +1,5 @@
 <section>
-  <h3><b>Hey, I'm Codestorm1875</b></h3>
+  <h3><b>Hey, I'm codestorm1875 👾</b></h3>
   <p>
     I'm a full-stack developer passionate about building meaningful digital experiences. I enjoy solving complex problems through code and learning new technologies. I also enjoy exploring different facets of programming whenever I have the time to, some stuff I've done in the past include: Blockchain development, Web3 applications, and general recreational programming (think tooling / automation). You can find me on most places online as Codestorm1875. Nice to meet you :)
   </p>
