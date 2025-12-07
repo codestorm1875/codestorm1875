@@ -56,7 +56,7 @@
 
 <br/>
 <p>
-  <b>Learn more about me <a href="https://abideen.is-a.dev" target="_blank">here</a> :)</b>
+  <b>Learn more about me <a href="https://abideen.is-a.dev" target="_blank">here</a>:)</b>
 </p>
 
 <a style="text-decoration: none;" href="https://github.com/codestorm1875">
