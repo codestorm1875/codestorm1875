@@ -1,7 +1,7 @@
 <section>
   <h3><b>Hey, I'm codestorm1875 👾</b></h3>
   <p>
-    I'm a full-stack developer passionate about building meaningful digital experiences. I enjoy solving complex problems through code and learning new technologies. I also enjoy exploring different facets of programming whenever I have the time to, some stuff I've done in the past include: Blockchain development, Web3 applications, and general recreational programming (think tooling / automation). You can find me on most places online as Codestorm1875. Nice to meet you :)
+  Hi! I'm a 200-level Computer Science student learning to build digital experiences through code. I'm still finding my way in development, but I enjoy the challenge of solving problems and picking up new skills along the way. When I have some free time, I like exploring different areas of programming; I've dabbled in blockchain development, Web3 applications, and small projects like tooling and automation scripts. You can find me around the internet as codestorm1875. Looking forward to connecting!
   </p>
 </section>
 
