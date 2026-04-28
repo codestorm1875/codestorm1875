@@ -46,7 +46,7 @@
       <b><a href="https://github.com/codestorm1875/online-voting-system">Online Voting System</a>:</b> Full-stack voting platform with real-time results
     </li>
     <li>
-      <b><a href="https://github.com/codestorm1875/portfolio">Personal Portfolio</a>:</b> Modern, responsive portfolio website
+      <b><a href="https://abideen.is-a.dev">Personal Portfolio</a>:</b> Modern, responsive portfolio website
     </li>
     <li>
       <b><a href="https://github.com/codestorm1875/csc-techies-frontend">CSC Techies</a>:</b> My school department website for managing timetables and course materials
