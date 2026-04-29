@@ -1,5 +1,5 @@
 <section>
-  <h3><b>Hey, I'm codestorm1875 👾</b></h3>
+  <h3><b>Hey, I'm codestorm 👾</b></h3>
   <p>
   Hi! I'm a 200-level Computer Science student learning to build digital experiences through code. I'm still finding my way in development, but I enjoy the challenge of solving problems and picking up new skills along the way. When I have some free time, I like exploring different areas of programming; I've dabbled in blockchain development, Web3 applications, and small projects like tooling and automation scripts. You can find me around the internet as codestorm1875. Looking forward to connecting!
   </p>
