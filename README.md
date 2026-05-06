@@ -9,10 +9,10 @@
   <h3>Skills</h3>
   <p>Backend Engineering</p>
   <a href="#gh-dark-mode-only">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=codestorm1875&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
+    <img align="right" src="https://github-stats-extended.vercel.app/api?username=codestorm1875&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
   </a>
   <a href="#gh-light-mode-only">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=codestorm1875&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
+    <img align="right" src="https://github-stats-extended.vercel.app/api?username=codestorm1875&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
   </a>
   <ul>
     <li>Node.js, TypeScript, Python, Go, Rust</li>
@@ -32,10 +32,10 @@
     <li>Smart Contract Development</li>
   </ul>
   <a href="#gh-dark-mode-only">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestorm1875&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
+    <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=codestorm1875&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
   </a>
   <a href="#gh-light-mode-only">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestorm1875&langs_count=10&v=174&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="Most used languages">
+    <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=codestorm1875&langs_count=10&v=174&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="Most used languages">
   </a>
 </section>
 
