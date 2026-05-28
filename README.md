@@ -5,7 +5,7 @@
   </p>
 </section>
 
-<section>
+<section> 
   <h3>Skills</h3>
   <p>Backend Engineering</p>
   <a href="#gh-dark-mode-only">
