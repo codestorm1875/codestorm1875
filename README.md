@@ -1,7 +1,7 @@
 <section>
   <h3><b>Hey, I'm codestorm 👾</b></h3>
   <p>
-  Hi! I'm a 200-level Computer Science student learning to build digital experiences through code. I'm still finding my way in development, but I enjoy the challenge of solving problems and picking up new skills along the way. When I have some free time, I like exploring different areas of programming; I've dabbled in blockchain development, Web3 applications, and small projects like tooling and automation scripts. You can find me around the internet as codestorm1875. Looking forward to connecting!
+Hi! I'm a 300-level Computer Science student who enjoys turning ideas into practical software. Over the years, I've explored different areas of development, from web and mobile applications to backend systems, tooling, and automation. I've also experimented with blockchain and Web3 projects, which has helped me understand different approaches to building software.
   </p>
 </section>
 
