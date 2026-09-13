@@ -1,7 +1,7 @@
 <section>
   <h3><b>Hey, I'm codestorm 👾</b></h3>
   <p>
-Hi! I'm a 300-level Computer Science student who enjoys turning ideas into practical software. Over the years, I've explored different areas of development, from web and mobile applications to backend systems, tooling, and automation. I've also experimented with blockchain and Web3 projects, which has helped me understand different approaches to building software.
+I'm a 300 level Computer Science student who enjoys turning ideas into practical software. Over the years, I've explored different areas of development, from web and mobile applications to backend systems, tooling, and automation. I've also experimented with blockchain and Web3 projects, which has helped me understand different approaches to building software.
   </p>
 </section>
 
